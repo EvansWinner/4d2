@@ -1,0 +1,33 @@
+* GENERAL 
+** Decide on /etc/skel stuff
+** Batch script on boulanger to generate html
+   from plain text
+** /etc/motd on saygun and badings
+** Change lab domain to 4d2.us? 4d2.local?
+** UPS for router setup
+** Set up r1
+** Set up s1
+** Set up w1
+** Hostname/username prompts everywhere 
+** Paths in /etc/skel 
+** Get t and thorn set up on saygun and badings 
+   incl dot files and vim thing
+
+* BACH
+** FTP server on bach for website files to 
+   boulanger
+** Vim folding for t (and thorne)
+
+* BADINGS
+
+* BOULANGER
+** Write batch script to generate html
+
+* GINASTERA
+
+* KODALY
+
+* NANCARROW
+
+* SAYGUN
+
