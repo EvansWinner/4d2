@@ -1,0 +1,8 @@
+IP : hostname : OS : Hardware : Description
+192.168.0.1 : g1 : : : Verizon gateway and router
+192.168.0.3 : s1 : : : Dell x1052 : Switch
+192.168.0.4 : hugo : NetBSD : Raspberry Pi 1 : ddclient
+192.168.0.5 : bach : OpenBSD : Dell Optiplex 380 : Management console for lab
+192.168.0.6 : badings : NetBSD : Raspberry Pi Zero W : Shell server
+192.168.0.7 : holy : Debian : Intel Compute Stick : Pi-hole, DNS, DHCP
+192.168.0.8 : saygun : Tribblix : ASUS ChromeBox : Shell server

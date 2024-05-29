@@ -1,5 +1,6 @@
 * GENERAL 
 ** Decide on /etc/skel stuff
+** Set up FreeDOS web server boulanger
 ** Batch script on boulanger to generate html
    from plain text
 ** /etc/motd on saygun and badings
@@ -11,7 +12,7 @@
 ** Hostname/username prompts everywhere 
 ** Paths in /etc/skel 
 ** Get t and thorn set up on saygun and badings 
-   incl dot files and vim thing
+** Update t and root password on holy incl dot
 
 * BACH
 ** FTP server on bach for website files to 

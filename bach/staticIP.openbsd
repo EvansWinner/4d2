@@ -1,0 +1,8 @@
+ifconfig gives interface name ("if")
+Edit /etc/hostname.<if> (.if is interface)
+add:
+
+inet nnn.nnn.nnn.nnn 255.255.255.0 NONE
+
+Then start networking under root:
+sh /etc/netstart <if>

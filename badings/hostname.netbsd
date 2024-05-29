@@ -1,0 +1,4 @@
+add 
+hostname=foo
+
+to rc.conf
